@@ -4,8 +4,8 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
-    <link rel="icon" href="./assets/img/kit/free/favicon.png">
+    <link rel="apple-touch-icon" href="resources/assets/img/kit/free/apple-icon.png">
+    <link rel="icon" href="resources/assets/img/kit/free/favicon.png">
     <title>
         Material Kit PRO by Creative Tim
     </title>
@@ -41,11 +41,11 @@
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./assets/css/material-kit.min.css?v=2.0.2">
+    <link rel="stylesheet" href="resources/assets/css/material-kit.min.css?v=2.0.2">
     <!-- Documentation extras -->
     <!-- CSS Just for demo purpose, don't include it in your project -->
-    <link href="./assets/assets-for-demo/demo.css" rel="stylesheet">
-    <link href="./assets/assets-for-demo/vertical-nav.css" rel="stylesheet">
+    <link href="resources/assets/assets-for-demo/demo.css" rel="stylesheet">
+    <link href="resources/assets/assets-for-demo/vertical-nav.css" rel="stylesheet">
 
 </head>
 
@@ -219,13 +219,13 @@
                     </div>
                     <div class="col-lg-6 col-md-12 ml-auto">
                         <div class="image-container">
-                            <img class="components-macbook" src="assets/assets-for-demo/section-components/laptop-basics.png" alt="">
-                            <img class="table-img" src="assets/assets-for-demo/section-components/table.jpg" alt="">
-                            <img class="share-btn-img" src="assets/assets-for-demo/section-components/share-btn.jpg" alt="">
-                            <img class="coloured-card-btn-img" src="assets/assets-for-demo/section-components/coloured-card-with-btn.jpg" alt="">
-                            <img class="coloured-card-img" src="assets/assets-for-demo/section-components/coloured-card.jpg" alt="">
-                            <img class="social-img" src="assets/assets-for-demo/section-components/social-row.jpg" alt="">
-                            <img class="pin-btn-img" src="assets/assets-for-demo/section-components/pin-btn.jpg" alt="">
+                            <img class="components-macbook" src="resources/assets/assets-for-demo/section-components/laptop-basics.png" alt="">
+                            <img class="table-img" src="resources/assets/assets-for-demo/section-components/table.jpg" alt="">
+                            <img class="share-btn-img" src="resources/assets/assets-for-demo/section-components/share-btn.jpg" alt="">
+                            <img class="coloured-card-btn-img" src="resources/assets/assets-for-demo/section-components/coloured-card-with-btn.jpg" alt="">
+                            <img class="coloured-card-img" src="resources/assets/assets-for-demo/section-components/coloured-card.jpg" alt="">
+                            <img class="social-img" src="resources/assets/assets-for-demo/section-components/social-row.jpg" alt="">
+                            <img class="pin-btn-img" src="resources/assets/assets-for-demo/section-components/pin-btn.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                 <div class="row">
                     <div class="col-md-7">
                         <div class="image-container">
-                            <img class="img" src="assets/assets-for-demo/cards-test.png">
+                            <img class="img" src="resources/assets/assets-for-demo/cards-test.png">
                         </div>
                     </div>
                     <div class="col-md-4 ml-auto">
@@ -261,9 +261,9 @@
                     </div>
                     <div class="col-md-7 ml-auto">
                         <div class="image-container">
-                            <img class="ipad-img" src="assets/assets-for-demo/section-components/presentation-ipad.jpg">
-                            <img class="area-img add-animation" src="assets/assets-for-demo/section-components/ipad-comments.jpg">
-                            <img class="info-img add-animation" src="assets/assets-for-demo/section-components/ipad-table.jpg">
+                            <img class="ipad-img" src="resources/assets/assets-for-demo/section-components/presentation-ipad.jpg">
+                            <img class="area-img add-animation" src="resources/assets/assets-for-demo/section-components/ipad-comments.jpg">
+                            <img class="info-img add-animation" src="resources/assets/assets-for-demo/section-components/ipad-table.jpg">
                         </div>
                     </div>
                 </div>
@@ -282,41 +282,41 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/h_1.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/h_1.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/h_2.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/h_2.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/h_3.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/h_3.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/h_4.jpg" alt="">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/f_1.jpg" alt="">
-                    </div>
-                    <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/f_2.jpg" alt="">
-                    </div>
-                    <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/f_3.jpg" alt="">
-                    </div>
-                    <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/f_4.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/h_4.jpg" alt="">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/f_5.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/f_1.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/b_2.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/f_2.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/b_3.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/f_3.jpg" alt="">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="resources/assets/assets-for-demo/sections/f_4.jpg" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="resources/assets/assets-for-demo/sections/f_5.jpg" alt="">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="resources/assets/assets-for-demo/sections/b_2.jpg" alt="">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="resources/assets/assets-for-demo/sections/b_3.jpg" alt="">
                     </div>
                     <div class="col-md-3">
                         <img src="assets/assets-for-demo/sections/b_4.jpg" alt="">
@@ -366,30 +366,30 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/team_5.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/team_5.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/team_1.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/team_1.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/team_2.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/team_2.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/team_3.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/team_3.jpg" alt="">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/t_1.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/t_1.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/team_4.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/team_4.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/pro_4.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/pro_4.jpg" alt="">
                     </div>
                     <div class="col-md-3">
-                        <img src="assets/assets-for-demo/sections/m_2.jpg" alt="">
+                        <img src="resources/assets/assets-for-demo/sections/m_2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -407,19 +407,19 @@
                         <h4 class="title">About Us</h4>
                         <div class="card">
                             <a href="examples/about-us.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-about-us.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-about-us.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Landing Page</h4>
                         <div class="card">
                             <a href="examples/landing-page.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-landing.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-landing.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Contact Us</h4>
                         <div class="card">
                             <a href="examples/contact-us.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-contact.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-contact.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -427,19 +427,19 @@
                         <h4 class="title">Blog Post</h4>
                         <div class="card">
                             <a href="examples/blog-post.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-blog-post.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-blog-post.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Product Page</h4>
                         <div class="card">
                             <a href="examples/product-page.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-product.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-product.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Login Page</h4>
                         <div class="card">
                             <a href="examples/login-page.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-login.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-login.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -447,25 +447,25 @@
                         <h4 class="title">Pricing Page</h4>
                         <div class="card">
                             <a href="examples/pricing.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-pricing.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-pricing.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Signup Page</h4>
                         <div class="card">
                             <a href="examples/signup-page.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-register.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-register.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Profile Page</h4>
                         <div class="card">
                             <a href="examples/profile-page.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-profile.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-profile.jpg" alt="">
                             </a>
                         </div>
                         <h4 class="title">Blog Posts</h4>
                         <div class="card">
                             <a href="examples/blog-posts.html">
-                                <img src="assets/assets-for-demo/example-pages/ex-blog-posts.jpg" alt="">
+                                <img src="resources/assets/assets-for-demo/example-pages/ex-blog-posts.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -533,7 +533,7 @@
         <!--     *********    END FEATURES 5      *********      -->
         <!--     *********     FEATURES 5      *********      -->
         <div class="section section-overview">
-            <div class="features-5" style="background-image: url('assets/assets-for-demo/features-5.jpg')">
+            <div class="features-5" style="background-image: url('resources/assets/assets-for-demo/features-5.jpg')">
                 <div class="col-md-8 ml-auto mr-auto text-center">
                     <h2 class="title">Your work will get much easier</h2>
                 </div>
@@ -595,9 +595,9 @@
                                     <div class="col-md-3">
                                         <div class="card-header card-header-image">
                                             <a href="#pablo">
-                                                <img class="img" src="assets/assets-for-demo/testimonials/test1.jpg">
+                                                <img class="img" src="resources/assets/assets-for-demo/testimonials/test1.jpg">
                                             </a>
-                                            <div class="colored-shadow" style="background-image: url(&quot;assets/assets-for-demo/testimonials/test1.jpg&quot;); opacity: 1;"></div>
+                                            <div class="colored-shadow" style="background-image: url(&quot;resources/assets/assets-for-demo/testimonials/test1.jpg&quot;); opacity: 1;"></div>
                                         <div class="colored-shadow" style="background-image: url(&quot;https://demos.creative-tim.com/marketplace/material-kit-pro/assets/assets-for-demo/testimonials/test1.jpg&quot;); opacity: 1;"></div></div>
                                     </div>
                                     <div class="col-md-9">
@@ -617,9 +617,9 @@
                                     <div class="col-md-3">
                                         <div class="card-header card-header-image">
                                             <a href="#pablo">
-                                                <img class="img" src="assets/assets-for-demo/testimonials/test2.jpg">
+                                                <img class="img" src="resources/assets/assets-for-demo/testimonials/test2.jpg">
                                             </a>
-                                            <div class="colored-shadow" style="background-image: url(&quot;assets/assets-for-demo/testimonials/test2.jpg&quot;); opacity: 1;"></div>
+                                            <div class="colored-shadow" style="background-image: url(&quot;resources/assets/assets-for-demo/testimonials/test2.jpg&quot;); opacity: 1;"></div>
                                         <div class="colored-shadow" style="background-image: url(&quot;https://demos.creative-tim.com/marketplace/material-kit-pro/assets/assets-for-demo/testimonials/test2.jpg&quot;); opacity: 1;"></div></div>
                                     </div>
                                     <div class="col-md-9">
